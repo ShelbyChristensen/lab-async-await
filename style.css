@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+header {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+ul#post-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul#post-list li {
+  background: white;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+ul#post-list h1 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+ul#post-list p {
+  margin: 0;
+}
